@@ -14,7 +14,7 @@ The Website Uptime Tracker is a Python script I created that allows me to monito
 
 Before using the Website Uptime Tracker, I had to ensure that I had the following prerequisites:
 
-- Python (version 3.11.3 or later) installed on my computer.
+- Python (version 3.11.3) installed on my computer.
 - Access to my laptop's command-line or terminal to run the script.
 - A Basic knowledge of working with command-line tools and editing text files.
 
